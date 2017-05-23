@@ -1,0 +1,1347 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"flex-end"
+			],
+			[
+				"fel",
+				"flex-start"
+			],
+			[
+				"fle",
+				"flex-end"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"vs",
+				"visible-sm"
+			],
+			[
+				"vis",
+				"visible-md"
+			],
+			[
+				"col",
+				"column-reverse"
+			],
+			[
+				"r",
+				"row-reverse"
+			],
+			[
+				"co",
+				"column-reverse"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"inl",
+				"inline-flex"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"vi",
+				"visible-lg"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"v",
+				"visible-xs"
+			],
+			[
+				"over",
+				"overview"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"cont",
+				"content-end"
+			],
+			[
+				"main",
+				"main-end"
+			],
+			[
+				"contne",
+				"content-end"
+			],
+			[
+				"content",
+				"content-start"
+			],
+			[
+				"main-",
+				"main-start"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"thi",
+				"thin"
+			],
+			[
+				"flx",
+				"flex-basis"
+			],
+			[
+				"fl",
+				"flex-shrink"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"out",
+				"outline-color"
+			],
+			[
+				"outl",
+				"outline-width"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"felx",
+				"flex-end"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"th",
+				"thin"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"s",
+				"space-around"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"algin",
+				"align-items"
+			],
+			[
+				"fe",
+				"flex-start"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"zh-",
+				"zh-hans"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgri",
+				"background-image"
+			],
+			[
+				"image",
+				"imageminPngquant"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"margt",
+				"margin-left"
+			],
+			[
+				"t",
+				"thick"
+			],
+			[
+				"session_un",
+				"session_unset"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"email",
+				"email_validator"
+			],
+			[
+				"Val",
+				"Validator"
+			],
+			[
+				"Valid",
+				"Validator"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"date",
+				"date_string"
+			],
+			[
+				"dat",
+				"date_validator"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"a",
+				"aVar"
+			],
+			[
+				"nv",
+				"nVar2"
+			],
+			[
+				"nV",
+				"nVar2"
+			],
+			[
+				"n",
+				"nVar2"
+			],
+			[
+				"respo",
+				"responseText"
+			],
+			[
+				"XML",
+				"XMLHttpRequest"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"set",
+				"setRequestHeader"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"crit",
+				"criticalIn"
+			],
+			[
+				"cr",
+				"criticalIn"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"criti",
+				"criticalEn"
+			],
+			[
+				"g",
+				"gutil"
+			],
+			[
+				"m",
+				"minHtmlIn"
+			],
+			[
+				"min",
+				"minHtmlEn"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"png",
+				"pngImages"
+			],
+			[
+				"jpg",
+				"jgpImages"
+			],
+			[
+				"gl",
+				"gulp-imagemin"
+			],
+			[
+				"no",
+				"noscript\tTag"
+			],
+			[
+				"sty",
+				"stylesheet"
+			],
+			[
+				"tra",
+				"transition-duration"
+			],
+			[
+				"hre",
+				"href\tAttr"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"imagemin",
+				"imageminWebp"
+			],
+			[
+				"im",
+				"img-responsive"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"pan",
+				"panel-body"
+			],
+			[
+				"panel",
+				"panel-default"
+			],
+			[
+				"mart",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"inline",
+				"inline-flex"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"ho",
+				"hourly"
+			],
+			[
+				"hou",
+				"Hourly"
+			],
+			[
+				"c",
+				"content\tAttr"
+			],
+			[
+				"href",
+				"hreflang\tAttr"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"collLink",
+				"collLink02"
+			],
+			[
+				"btn",
+				"btn-lg"
+			],
+			[
+				"bt",
+				"btn-default"
+			],
+			[
+				"word",
+				"word-wrap"
+			],
+			[
+				"colla",
+				"collapse"
+			],
+			[
+				"coll",
+				"collapse"
+			],
+			[
+				"well",
+				"well-sm"
+			],
+			[
+				"collap",
+				"collapse1"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"spac",
+				"space-around"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"PA",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 13644,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "affiliations.html",
+			"settings":
+			{
+				"buffer_size": 25810,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "contact.html",
+			"settings":
+			{
+				"buffer_size": 12863,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "courses.html",
+			"settings":
+			{
+				"buffer_size": 14596,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fees.html",
+			"settings":
+			{
+				"buffer_size": 10213,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 10982,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "qual.html",
+			"settings":
+			{
+				"buffer_size": 10240,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/chema/Google Drive/Development2017/AozhongqiaoDev/css/zh-hans/style.css",
+			"settings":
+			{
+				"buffer_size": 25962,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 800.0
+	},
+	"console":
+	{
+		"height": 246.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/chema/Google Drive/Development2017/AozhongqiaoDev/css/en/style.css",
+		"/C/Users/chema/Google Drive/Development2017/AozhongqiaoDev/index.html",
+		"/C/Users/chema/Google Drive/Development2017/AozhongqiaoDev/en/index.html",
+		"/C/Users/chema/Google Drive/Development2017/AozhongqiaoDev/en/qual.html",
+		"/C/Users/chema/Google Drive/Development2017/AozhongqiaoDev/en/fees.html",
+		"/C/Users/chema/Google Drive/Development2017/AozhongqiaoDev/en/courses.html",
+		"/C/Users/chema/Google Drive/Development2017/AozhongqiaoDev/en/contact.html",
+		"/C/Users/chema/Google Drive/Development2017/AozhongqiaoDev/en/affiliations.html",
+		"/C/Users/chema/Google Drive/Development2017/AozhongqiaoDev/en/about.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHanPostGulp/css/zh-hans/style.css",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHanPostGulp/html/zh-hans/courses.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHanPostGulp/html/zh-hans/about.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHanPostGulp/html/zh-hans/index.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHanPostGulp/html/zh-hans/overview.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHanPostGulp/html/en/index.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/index.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/zh-hans/index.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/zh-hans/about.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/css/en/style.css",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/css/zh-hans/style.css",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/en/about.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/en/index.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/en/flexContainer.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/en/flexShrink.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/en/flexGrow.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/en/gridAreaAsAbsoluteParent.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/en/gridThisRelativeAbsolute.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/en/gridThisAuto-Fill.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/en/gridThisAutoFillMinMaxhtml.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/en/ChenhuaGrid.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/en/gridLayout.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/en/ShorthandGColGRow.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/en/NameingLinesGrid.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/en/gridUIElements.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/en/nameingGridArea.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/en/gridBootStrap.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/en/gridMultiLSameNameSpan.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/en/gridMultiLinesSameName.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/en/philosophy.html",
+		"/C/Users/chema/Documents/Jeremy'sDocuments/racq.html",
+		"/C/Users/chema/Documents/Jeremy'sDocuments/Inbox – chema64@gmail.com.html",
+		"/C/Apache24/htdocs/index.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Apache24/conf/httpd.conf",
+		"/C/Apache24/htdocs/test.php",
+		"/C/php/php.ini",
+		"/C/Users/chema/Google Drive/Alliance Française de Townsville/Administration/MailChimpList/CS - Sheet1.csv",
+		"/C/Users/chema/Google Drive/Alliance Française de Townsville/Administration/MailChimpList/Newsletter 2017.ods",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/css/en/style.css",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/en/about.html",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/image2.js",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/zh-hans/contact.html",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/en/contact.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/html/zh-hans/Oldindex.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/zh-hans/index.html",
+		"/C/Users/chema/Google Drive/Development2017/ChenhuaHan/en/index.html",
+		"/C/Users/chema/Google Drive/Alliance Française de Townsville/Administration/Email/imagemin-pngquant-master/imagemin-pngquant-master/readme.md",
+		"/C/Users/chema/Google Drive/Alliance Française de Townsville/Administration/Email/imagemin-pngquant-master/imagemin-pngquant-master/index.js",
+		"/C/Users/chema/Google Drive/Alliance Française de Townsville/Administration/Email/imagemin-pngquant-master/imagemin-pngquant-master/test.js",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/gulpfile.js",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/index.html",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/css/zh-hans/style.css",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/app/src/db.php",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/app/views/content.php",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/app/src/app.php",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/public/index.php",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/app/requests/Request.php",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/app/requests/RequestRepository.php",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/public/demo_Session2.php",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/public/demo_Session1.php",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/WatchUsBuild-CloseEncountersWithPHP-master/WatchUsBuild-CloseEncountersWithPHP-master/public/indexv2.php",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/WatchUsBuild-CloseEncountersWithPHP-master/WatchUsBuild-CloseEncountersWithPHP-master/public/index.php",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/app/src/demo_Session2.php",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/app/src/demo_Session1.php",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/app/src/validation.php",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/app/views/header.php",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/app/views/footer.php",
+		"/C/Users/chema/Dev/php7-dockerized/sites/hello.vhost",
+		"/C/Users/chema/Dev/php7-dockerized/docker-compose.yml",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/vendor/autoload.php",
+		"/C/Users/chema/Dev/php7-dockerized/README.md",
+		"/C/Users/chema/Dev/php7-dockerized/Dockerfile",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/views/header.php",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/public/css/application.css",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/WatchUsBuild-CloseEncountersWithPHP-master/WatchUsBuild-CloseEncountersWithPHP-master/app/views/footer.php",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/WatchUsBuild-CloseEncountersWithPHP-master/WatchUsBuild-CloseEncountersWithPHP-master/app/views/content.php",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/WatchUsBuild-CloseEncountersWithPHP-master/WatchUsBuild-CloseEncountersWithPHP-master/app/views/header.php",
+		"/C/Users/chema/Dev/php7-dockerized/www/hello/index.php",
+		"/C/Users/chema/Dev/php7-dockerized/sites/default.vhost",
+		"/C/Users/chema/Google Drive/Development2016/Email/email-blueprints-master/email-blueprints-master/responsive-templates/base_boxed_basic_query.html",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/inv/php/index.php",
+		"/C/Users/chema/Google Drive/Development2016/Email/simpleTest.html",
+		"/C/Users/chema/Google Drive/Development2016/Email/Untitled Template.html",
+		"/C/Users/chema/Dev/php7-dockerized/www/default/index.php",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/en/index.html",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/en/qual.html",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/inv/inv.html",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/js/en/map2.js",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/en/courses.html",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/en/fees.html",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/en/affiliations.html",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/inv/.htaccess",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/.htaccess",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/inv/helloWorld.php",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/inv/serverResOrig.txt",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/inv/serverRes.txt",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/inv/rNew.js",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/inv/error_log",
+		"/C/Users/chema/AppData/Local/Temp/fz3temp-2/map2.js",
+		"/C/Users/chema/AppData/Local/Temp/fz3temp-2/map.js",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/inv/invArchive.js",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/images/image.js",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/js/en/openClose.js",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/zh-hans/crit/index.html",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/js/zh-hans/jsMin/map.js",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/css/zh-hans/cssMin/style.css",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/crit/index.html",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/en/crit/index.html",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/en/affiliations--iFram.html",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/cssCrit.js",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/crit/indexIn.css",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/en/htmlMin/index.html",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/en/crit/courses.html",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/en/crit/about.html",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/en/crit/contact.css",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/en/crit/about.css",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/en/crit/index.css",
+		"/C/Users/chema/Google Drive/Development2016/WebSite/Bootstrap/CodeAcademy/Aozhongqiao/20161221Prototype06/js/en/jsMin/map.js"
+	],
+	"find":
+	{
+		"height": 64.0
+	},
+	"find_in_files":
+	{
+		"height": 176.0,
+		"where_history":
+		[
+			"C:\\Users\\chema\\Google Drive\\PD\\GameBook"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"transition-duration",
+			"overview",
+			"h5",
+			"h4",
+			"\t  \t\t\t\t<h4>韓女士是一位优秀的語言文化的傳播人士，熟悉東西方文化，精通四國語言並具有豐富的語言文化教学经验。自2011年移居澳洲以來，一直从事教育及翻譯工作，包括英語，普通話，韩語及日語。韩女士目前在詹姆斯库克大學教授普通话。</h4>\n \n\t\t\t\t\t\t<h4>華澳语言&文化有限公司专注于将中澳語言文化巧妙結合，为中國學生打开在澳洲的留學大门。 本公司提供中學，高中及大學的留學服务，为中國留學生在澳洲留學創造好的機會， 確保訪問汤斯维尔市的中國留學生感到倍受歡迎，使學生们获得當地教育積極向上的學習和文化生活体验，促進中國留學生成功獲得澳洲的中高等學歷。</h4>\n\t\t\t\t\t\t \n\t\t\t\t\t\t<h4>除教育外，韓女士還携手与汤斯维尔最優秀的律師事務所合作，擔任國際商業服務部的谈判工作，主要包括澳洲与中國公司間的農牧業及太陽能項目的商談。</h4>",
+			"h4",
+			";);",
+			";\n",
+			"350px",
+			"8px",
+			";*/\n",
+			"h5",
+			"h4",
+			".homeFlexContainer",
+			"250px",
+			"</li>",
+			"<li>",
+			"xs",
+			"concontact",
+			"background-color",
+			";\n",
+			"main",
+			"  ",
+			"box-sizing",
+			"* {",
+			"*",
+			"();\n",
+			"<label for=\"reason\">Reason for Visit</label>\n\t\t\t\t<textarea class=\"form-control\" name=\"reason\"></textarea>",
+			"templateContainer",
+			"device",
+			"Content",
+			"openedWindow",
+			"console.log",
+			"href=\"../inv/inv.html\"",
+			"I53",
+			"ROUND",
+			"AG40",
+			"W51",
+			"P40",
+			"AD40",
+			"W40",
+			"P40",
+			"I40",
+			"a:link",
+			"a:hover",
+			"#affiliationsD1",
+			"#aboutContent2 #googleSearch",
+			"#linkedIn",
+			".footer p",
+			".Skype",
+			"#mainContent2",
+			"mainXsImg",
+			"I",
+			"outline",
+			"out",
+			"h2",
+			"36px",
+			"qualOuter",
+			"27px",
+			".footer",
+			";\n",
+			"contactD2",
+			"contactD1",
+			"contactOuter",
+			";\"",
+			"iNQCarousel",
+			"586073",
+			"iNQModal",
+			"TownsvilleChineseClubCarousel",
+			"#qualInner2",
+			"particularly",
+			"particularaly",
+			"particular",
+			"particularaly",
+			"1px",
+			"-->",
+			"<!DOC",
+			"DOC",
+			"-->",
+			"{",
+			"{\n",
+			"{ \n",
+			";\n",
+			"1px",
+			"10px",
+			"course",
+			"p",
+			"h1",
+			"test2",
+			"test1",
+			"test",
+			"course",
+			"right",
+			"h3",
+			"h4",
+			"h3",
+			"h2",
+			"white",
+			"h2",
+			"li",
+			";\n",
+			"test",
+			"line",
+			"380px",
+			"none",
+			";\n",
+			"options",
+			"set",
+			"//",
+			"I40",
+			"H40",
+			".1",
+			"H40",
+			"=",
+			"interaction",
+			"encounter",
+			"navigation",
+			"IF(G7=\"NA\",TRUE,FALSE)",
+			"IF(F7=\"NA\",TRUE,FALSE)",
+			"IF(E7=\"NA\",TRUE,FALSE)",
+			"IF(D7=\"NA\",TRUE,FALSE)",
+			"IF(G7<>\"NA\",TRUE,FALSE)",
+			"IF(F7<>\"NA\",TRUE,FALSE)",
+			"IF(E7<>\"NA\",TRUE,FALSE)",
+			"IF(D7<>\"NA\",TRUE,FALSE)",
+			"ISBLANK(D7)=FALSE",
+			"IF(D7<>\"NA\",TRUE,FALSE)",
+			"\"NA\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"courses",
+			"h4",
+			"h3",
+			"h5",
+			"\t  \t\t\t\t<h4>韓女士是一位优秀的語言文化的傳播人士，熟悉東西方文化，精通四國語言並具有豐富的語言文化教学经验。自2011年移居澳洲以來，一直从事教育及翻譯工作，包括英語，普通話，韩語及日語。韩女士目前在詹姆斯库克大學教授普通话。</h4>\n \n\t\t\t\t\t\t<h4>華澳语言&文化有限公司专注于将中澳語言文化巧妙結合，为中國學生打开在澳洲的留學大门。 本公司提供中學，高中及大學的留學服务，为中國留學生在澳洲留學創造好的機會， 確保訪問汤斯维尔市的中國留學生感到倍受歡迎，使學生们获得當地教育積極向上的學習和文化生活体验，促進中國留學生成功獲得澳洲的中高等學歷。</h4>\n\t\t\t\t\t\t \n\t\t\t\t\t\t<h4>除教育外，韓女士還携手与汤斯维尔最優秀的律師事務所合作，擔任國際商業服務部的谈判工作，主要包括澳洲与中國公司間的農牧業及太陽能項目的商談。</h4>",
+			"h5",
+			"h4",
+			"\t  \t\t\t\t<h5>一点点关于我自己</h5>\n\n\t  \t\n\t\n\t  \t\t\t\t<h5>我学习和教授日语和英语作为我的教育学士学位的一部分。我能说流利的韩语。</h5>\n\t  \t\t\t\t<h5>我致力于为学生提供基础技能，以激励和促进他们的语言技能学习。我在教学语言方面有多年的经验，如普通话和我在积极的学习环境中这样做。</h5>\n\t  \t\t\t\t<h5>我希望有机会协助发展学生学习第二语言，这将是我们现在生活在全球的重要资产。</h5>",
+			"h3",
+			"h5",
+			"#homeFlexContainer",
+			"",
+			"footer",
+			"AG40",
+			"I53",
+			"AG40",
+			"W51",
+			"P40",
+			"AD40",
+			"W40",
+			"P40",
+			"#contactD1 address",
+			"#affiliationsD2",
+			"#affiliationsD1",
+			"#googleSearch",
+			"#aboutContent2 #linkedIn",
+			"h3",
+			"feesD2",
+			"feesD1",
+			"feesOuter",
+			"iNQCarousel2",
+			"iNQCarousel",
+			"iNQModal",
+			"TownsvilleChineseClubCarousel",
+			"h4",
+			"p",
+			"sLine",
+			"",
+			"sLine",
+			"AG40",
+			"AF40",
+			".10",
+			"I40",
+			"interactionChoice",
+			"encounterOptions",
+			"navigationOptions",
+			"ISBLANK(G7)=TRUE",
+			"ISBLANK(F7)=TRUE",
+			"ISBLANK(E7)=TRUE",
+			"ISBLANK(D7)=TRUE",
+			"ISBLANK(G7)=FALSE",
+			"ISBLANK(F7)=FALSE",
+			"ISBLANK(E7)=FALSE",
+			"ISBLANK(D7)=FALSE",
+			"IF(D7<>\"NA\",TRUE,FALSE)",
+			"\"\"",
+			"IF(D7=\"\",TRUE,FALSE), IF(E7=\"\",TRUE,FALSE), IF(F7=\"\",TRUE,FALSE), IF(G7=\"\",TRUE,FALSE)",
+			"IF(D7=\"NA\",TRUE,FALSE), IF(E7=\"NA\",TRUE,FALSE), IF(F7=\"NA\",TRUE,FALSE), IF(G7=\"NA\",TRUE,FALSE)",
+			" ",
+			"IF(D7=\"\",TRUE,FALSE), IF(E7=\"\",TRUE,FALSE), IF(F7=\"\",TRUE,FALSE), IF(G7=\"\"",
+			"IF(D7=\"NA\",TRUE,FALSE), IF(E7=\"NA\",TRUE,FALSE), IF(F7=\"NA\",TRUE,FALSE), IF(G7=\"NA\"",
+			"G7",
+			"F7",
+			"E7",
+			"H40",
+			"D7",
+			"AF40",
+			"AG40",
+			"H40",
+			"H41",
+			"H40",
+			"AF40",
+			"=",
+			"else if(choice === 'g')\n\t{\n\t\tvar invalidChoice = true;\n\t\tvar giveChoice = prompt(encounter.question3 + \"\\n\\n \" + chema.items.item1 + \"\\n\\n \" + chema.items.item2);\n\n\t\twhile(invalidChoice === true)\n\t\t{\n\t\t\t\n\t\t\tswitch(giveChoice)\n\t\t\t{\n\t\t\t\tcase '1':\n\t\t\t\talert(\"I fell off my damn scooter\");\n\t\t\t\tinvalidChoice = false;\n\t\t\t\tbreak;\n\t\t\t\tcase '2':\n\t\t\t\talert(\"GET BENT!\");\n\t\t\t\tencounter.complete = true;\n\t\t\t\tinvalidChoice = false;\n\t\t\t\tbreak;\n\t\t\t\tcase encounter.quit:\n\t\t\t\tinvalidChoice = false;\n\t\t\t\tbreak;\n\t\t\t\tdefault:\n\t\t\t\talert(\"****************YOU HAVE ENTERED IN AN INVALID VALUE!!!****************\\n\\n****************Please only enter in the characters.****************\\n\\n--'\"+encounter.choices.choice3+\"' for first choice\\n\\n--'\"+encounter.choices.choice4+\"' for second choice\\n\\n\\nYOU CAN QUIT THE GAME AT ANYTIME BY ENTERING IN THE 'X' CHARACTER\");\n\t\t\t\tgiveChoice = prompt(encounter.question2);",
+			"giveChoice",
+			"var talkChoice = prompt(encounter.question3 + \"\\n\\n \" + chema.items.item1 + \"\\n\\n \" + chema.items.item2);\n\n\t\twhile(invalidChoice === true)\n\t\t{\n\t\t\t\n\t\t\tswitch(talkChoice)\n\t\t\t{\n\t\t\t\tcase '1':\n\t\t\t\talert(\"I fell off my damn scooter\");\n\t\t\t\tinvalidChoice = false;\n\t\t\t\tbreak;\n\t\t\t\tcase '2':\n\t\t\t\talert(\"GET BENT!\");\n\t\t\t\tencounter.complete = true;\n\t\t\t\tinvalidChoice = false;\n\t\t\t\tbreak;\n\t\t\t\tcase encounter.quit:\n\t\t\t\tinvalidChoice = false;\n\t\t\t\tbreak;\n\t\t\t\tdefault:\n\t\t\t\talert(\"****************YOU HAVE ENTERED IN AN INVALID VALUE!!!****************\\n\\n****************Please only enter in the characters.****************\\n\\n--'\"+encounter.choices.choice3+\"' for first choice\\n\\n--'\"+encounter.choices.choice4+\"' for second choice\\n\\n\\nYOU CAN QUIT THE GAME AT ANYTIME BY ENTERING IN THE 'X' CHARACTER\");\n\t\t\t\ttalkChoice = prompt(encounter.question2);",
+			"encounter",
+			"\tvar choice = prompt(navChoice.description);\n\n\t\tif(choice != null)\n\t\t{\n\t\t\tchoice = choice.toLowerCase();\n\t\t}\n\n\t\tswitch(choice)\n\t\t{\n\t\t\tcase navChoice.choices.choice1.toLowerCase():\n\t\t\t\tinvalidChoice = false;\n\t\t\t\tbreak;\n\t\t\tcase navChoice.choices.choice2.toLowerCase():\n\t\t\t\tinvalidChoice = false;\n\t\t\t\tbreak;\n\t\t\tcase navChoice.quit:\n\t\t\t\tinvalidChoice = false;\n\t\t\t\tbreak;\n\t\t\tdefault:\n\t\t\t\talert(\"****************YOU HAVE ENTERED IN AN INVALID VALUE!!!****************\\n\\n****************Please only enter in the characters.****************\\n\\n--'\"+navChoice.choices.choice1.toUpperCase()+\"' for first choice\\n\\n--'\"+navChoice.choices.choice2.toUpperCase()+\"' for second choice\\n\\n\\nYOU CAN QUIT THE GAME AT ANYTIME BY ENTERING IN THE 'X' CHARACTER\");",
+			"var choice = prompt(navChoice.description);\n\n\t\tif(choice != null)\n\t\t{\n\t\t\tchoice = choice.toLowerCase();\n\t\t}\n\n\t\tswitch(choice)\n\t\t{\n\t\t\tcase navChoice.choices.choice1.toLowerCase():\n\t\t\t\tinvalidChoice = false;\n\t\t\t\tbreak;\n\t\t\tcase navChoice.choices.choice2.toLowerCase():\n\t\t\t\tinvalidChoice = false;\n\t\t\t\tbreak;\n\t\t\tcase navChoice.quit:\n\t\t\t\tinvalidChoice = false;\n\t\t\t\tbreak;\n\t\t\tdefault:\n\t\t\t\talert(\"****************YOU HAVE ENTERED IN AN INVALID VALUE!!!****************\\n\\n****************Please only enter in the characters.****************\\n\\n--'\"+navChoice.choices.choice1.toUpperCase()+\"' for first choice\\n\\n--'\"+navChoice.choices.choice2.toUpperCase()+\"' for second choice\\n\\n\\nYOU CAN QUIT THE GAME AT ANYTIME BY ENTERING IN THE 'X' CHARACTER\");",
+			"userChoice",
+			"firstChoice",
+			"northChoice",
+			"choice",
+			"if(choice != null)\n\t\t{\n\t\t\tchoice = choice.toLowerCase();\n\t\t}\n\n\t\tif(choice === 'n' || choice === 's')\n\t\t{\n\t\t\tinvalidChoice = false;\n\t\t}",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13644,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "affiliations.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "courses.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "fees.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10982,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "qual.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/chema/Google Drive/Development2017/AozhongqiaoDev/css/zh-hans/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 48.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 228.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "AozhongqiaoZh-HansDev.sublime-project",
+	"replace":
+	{
+		"height": 120.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1000.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Program Files\\Sublime Text 3\\test.sublime-project"
+			]
+		],
+		"width": 760.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 100.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

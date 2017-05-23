@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html>
+
+<html lang="zh-Hans">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>澳中桥 ， 潭雅∙巴落的专业背景 ， 电气工程师 ， 普通话 ，澳大利亚 昆士兰州 汤斯维尔市</title>
+
+  <link rel="canonical"  href="http://www.aozhongqiao.com/zh-hans/about.html">
+  <link rel="alternate"  href="http://www.aozhongqiao.com/en/about.html" hreflang="en">
+  <link rel="alternate"  href="http://www.aozhongqiao.com/zh-hans/about.html" hreflang="zh-hans">
+  
+  <meta name="description" content="我是澳大利亚电气工程师， 曾学过中文。在澳大利亚港口城市 肯布拉 钢厂及中国苏州博思格钢铁公司工作过。我是汤斯维尔市华侨会的会员。我对中国语言及文化有一定的了解，我可以提供中英文辅导包括针对 中澳商务人士提高专业中文水平，帮助中国留学生提高英文水平。">
+
+  <meta name="google" content="notranslate">
+  
+  <!--BS Latest compiled and minified CSS -->
+  <link rel="preload" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" as="style" onload="this.rel='stylesheet'" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  <noscript><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"></noscript>
+
+  <link rel="preload" href="../css/zh-hans/style.css" as="style" onload="this.rel='stylesheet'">
+
+  <noscript><link rel="stylesheet" href="../css/zh-hans/style.css"></noscript>
+
+  <script>
+
+		/*! loadCSS: load a CSS file asynchronously. [c]2016 @scottjehl, Filament Group, Inc. Licensed MIT */
+		(function(w){
+			"use strict";
+			/* exported loadCSS */
+			var loadCSS = function( href, before, media ){
+				// Arguments explained:
+				// `href` [REQUIRED] is the URL for your CSS file.
+				// `before` [OPTIONAL] is the element the script should use as a reference for injecting our stylesheet <link> before
+					// By default, loadCSS attempts to inject the link after the last stylesheet or script in the DOM. However, you might desire a more specific location in your document.
+				// `media` [OPTIONAL] is the media type or query of the stylesheet. By default it will be 'all'
+				var doc = w.document;
+				var ss = doc.createElement( "link" );
+				var ref;
+				if( before ){
+					ref = before;
+				}
+				else {
+					var refs = ( doc.body || doc.getElementsByTagName( "head" )[ 0 ] ).childNodes;
+					ref = refs[ refs.length - 1];
+				}
+
+				var sheets = doc.styleSheets;
+				ss.rel = "stylesheet";
+				ss.href = href;
+				// temporarily set media to something inapplicable to ensure it'll fetch without blocking render
+				ss.media = "only x";
+
+				// wait until body is defined before injecting link. This ensures a non-blocking load in IE11.
+				function ready( cb ){
+					if( doc.body ){
+						return cb();
+					}
+					setTimeout(function(){
+						ready( cb );
+					});
+				}
+				// Inject link
+					// Note: the ternary preserves the existing behavior of "before" argument, but we could choose to change the argument to "after" in a later release and standardize on ref.nextSibling for all refs
+					// Note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
+				ready( function(){
+					ref.parentNode.insertBefore( ss, ( before ? ref : ref.nextSibling ) );
+				});
+				// A method (exposed on return object for external use) that mimics onload by polling document.styleSheets until it includes the new sheet.
+				var onloadcssdefined = function( cb ){
+					var resolvedHref = ss.href;
+					var i = sheets.length;
+					while( i-- ){
+						if( sheets[ i ].href === resolvedHref ){
+							return cb();
+						}
+					}
+					setTimeout(function() {
+						onloadcssdefined( cb );
+					});
+				};
+
+				function loadCB(){
+					if( ss.addEventListener ){
+						ss.removeEventListener( "load", loadCB );
+					}
+					ss.media = media || "all";
+				}
+
+				// once loaded, set link's media back to `all` so that the stylesheet applies once it loads
+				if( ss.addEventListener ){
+					ss.addEventListener( "load", loadCB);
+				}
+				ss.onloadcssdefined = onloadcssdefined;
+				onloadcssdefined( loadCB );
+				return ss;
+			};
+			// commonjs
+			if( typeof exports !== "undefined" ){
+				exports.loadCSS = loadCSS;
+			}
+			else {
+				w.loadCSS = loadCSS;
+			}
+		}( typeof global !== "undefined" ? global : this ));
+
+		/*! CSS rel=preload polyfill. Depends on loadCSS function. [c]2016 @scottjehl, Filament Group, Inc. Licensed MIT  */
+		(function( w ){
+		  // rel=preload support test
+		  if( !w.loadCSS ){
+		    return;
+		  }
+		  var rp = loadCSS.relpreload = {};
+		  rp.support = function(){
+		    try {
+		    	console.log("Preload supported: " + w.document.createElement( "link" ).relList.supports( "preload" ));
+		      return w.document.createElement( "link" ).relList.supports( "preload" );
+		    } catch (e) {
+		      return false;
+		    }
+		  };
+
+		  // loop preload links and fetch using loadCSS
+		  rp.poly = function(){
+		    var links = w.document.getElementsByTagName( "link" );
+		    for( var i = 0; i < links.length; i++ ){
+		      var link = links[ i ];
+		      if( link.rel === "preload" && link.getAttribute( "as" ) === "style" ){
+		        w.loadCSS( link.href, link );
+		        link.rel = null;
+		      }
+		    }
+		  };
+
+		  // if link[rel=preload] is not supported, we must fetch the CSS manually using loadCSS
+		  if( !rp.support() ){
+		  	console.log("preloadNotSupported");
+		    rp.poly();
+		    var run = w.setInterval( rp.poly, 300 );
+		    if( w.addEventListener ){
+		      w.addEventListener( "load", function(){
+		        rp.poly();
+		        w.clearInterval( run );
+		      } );
+		    }
+		    if( w.attachEvent ){
+		      w.attachEvent( "onload", function(){
+		        w.clearInterval( run );
+		      } )
+		    }
+		  }
+		}( this ));
+
+
+  </script>
+
+  <script></script><!-- here to ensure a non-blocking load still occurs in IE and Edge, even if scripts follow loadCSS in head -->
+
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" defer ></script>
+
+	<!-- BS Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous" defer></script>
+
+	<script src="../js/modernizr-custom.js" async></script>
+	
+</head>
+
+<body>
+
+
+
+	<!--BOOTSTRAP NAVBAR-->
+  <!--BOOTSTRAP NAVBAR-->
+  <!--BOOTSTRAP NAVBAR-->
+  <nav class="navbar navbar-default navbar-fixed-top">
+  	<div class="container">
+
+  		<div class="navbar-header">
+
+  			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+  			  <span class="icon-bar"></span>
+  			  <span class="icon-bar"></span>	
+  			  <span class="icon-bar"></span>		
+  			</button>
+
+ 
+
+  		</div>
+
+  		<div class="collapse navbar-collapse" id="myNavbar">
+		    		<ul class="nav navbar-nav navbar-left">
+		    			<li role="presentation" ><a href="index.html">首页</a></li>
+		    			<li role="presentation" class="active"><a href="about.html">专业背景</a></li>
+		    			<li role="presentation"><a href="courses.html">语言辅导服务</a></li>
+		    			<li role="presentation" ><a href="qual.html">资格</a></li>
+		    			<li role="presentation"><a href="affiliations.html">所属 </a></li>
+		    			<li role="presentation"><a href="fees.html">费用</a></li>
+		    			<li role="presentation"><a href="contact.html">联系</a></li>
+		    		</ul>
+
+		    		<ul class="nav navbar-nav navbar-right">
+		    		  <li role="presentation"><a  href="../en/about.html">EN 英文</a></li>
+	     			</ul>
+	    		</div>
+
+  	</div>
+  </nav>
+
+	<!--JUMBOTRON-->
+	<!--JUMBOTRON-->
+	<!--JUMBOTRON-->
+	<div class="jumbotron" >
+	  <div class="container text-center">
+	  	
+    	<picture>
+  			<source type="image/webp" media="(min-width:768px)" srcset="../images/webp/290x102AozhongqiaV5.webp">
+	  			<source type="image/webp" media="(max-width:767px)" srcset="../images/webp/145x51AozhongqiaV6.webp">
+	  			<img  src="../images/290x102AozhongqiaV5.png" class="img-responsive center-block visible-lg visible-md visible-sm"  >
+	  			<img  src="../images/145x51AozhongqiaV6.png" class="img-responsive center-block visible-xs"  >
+			</picture>  
+
+
+      <h2 id="ÀozhōngqiáoTitleLMSM" class="visible-lg visible-md visible-sm" >专业背景</h2>
+    	<h3 id="ÀozhōngqiáoTitleXS" class="visible-xs" >专业背景</h3>
+
+    </div>
+	</div>
+
+	<!--MAIN SECTION-->
+  <!--MAIN SECTION-->
+  <!--MAIN SECTION-->
+    <div  id="main" >
+
+      <div  class="container">
+
+      <div id="aboutSmMdLgTop" class="col-md-12 visible-sm visible-md visible-lg" ></div>
+
+	      <div  class="row">
+
+					<!--<picture>
+		  			<source type="image/webp" media="(max-width:767px)" srcset="../images/webp/414x81.webp">
+		  			<img id="mainXsImg" src="../images/414x81.png" class="img-responsive visible-xs">
+					</picture>-->
+
+	      	<div id="aboutOuter1" class="col-md-6 visible-lg visible-md">
+
+		      	<div id="aboutContent1" >
+		      	  
+		      		<picture>
+				  			<source type="image/webp" srcset="../images/webp/400x271aboutMap3.webp">
+				  			<img id="worldMap" class="center-block img-responsive polaroid" src="../images/400x271aboutMap3.jpg">
+							</picture>
+
+							<div id="aboutAozhLogo"  class="grad">
+		      	  	<h1 class="text-center " lang="zh-Hans"><strong>澳 中 桥</strong></h1>
+			      	  <h1 class="text-center ">Àozhōngqiáo</h1> 
+			      	  <h4 class="text-center">Àozhōngqiáo is a short-hand way <br> of saying "Australia-China bridge"</h4>
+	      	 		</div>
+		      			
+		      	</div>	
+
+	      	</div>
+
+	        <div id="aboutOuter2" class="col-sm-12 col-md-6 text-left">
+	          <div id="aboutContent2">
+	          	
+	          	<div id="tanyaImage">
+
+		          	<h3 class="visible-lg visible-md visible-sm"><strong>Tanya Barlow <br> (谭雅•巴落)</strong></h3>
+		          	<h4 class="visible-xs"><strong>Tanya Barlow <br> (谭雅•巴落)</strong></h4>
+
+	          		<picture>
+					  			<source type="image/webp"  media="(min-width:768px)" srcset="../images/webp/137x172TB_Linkedin_photo1.webp">
+					  			<source type="image/webp" media="(max-width:767px)" srcset="../images/webp/69x86TB_Linkedin_photo1.webp">
+					  			<img class="img-responsive polaroid visible-lg visible-md visible-sm"  src="../images/137x172TB_Linkedin_photo1.jpg" >
+					  			<img class="img-responsive polaroid visible-xs"  src="../images/69x86TB_Linkedin_photo1.jpg" >
+								</picture>
+
+	          	</div>
+	          	
+	            
+
+	          	<p>我是澳大利亚电气工程师， 曾学过中文。在澳大利亚港口城市 肯布拉 钢厂及中国苏州博思格钢铁公司工作过。我是汤斯维尔市华侨会的会员。我对中国语言及文化有一定的了解，我可以提供中英文辅导包括针对 中澳商务人士提高专业中文水平，帮助中国留学生提高英文水平。
+	          	</p>
+	
+	          	<div id="linkedIn" >
+	          		
+	          		<a class="visible-lg visible-md visible-sm"  href="https://www.linkedin.com/in/tanya-barlow-%E8%B0%AD%E9%9B%85-24496220">
+			        	  
+
+			        	  <picture>
+						  			<source type="image/webp" media="(min-width:768px)" srcset="../images/webp/In-2C-48px-TM.webp">
+						  			<img src="../images/In-2C-48px-TM.png">
+									</picture>
+
+			        	  <h4><strong>英文：Tanya Barlow Townsville LinkedIn&trade;</strong></h4>
+			          </a>
+
+			          <a class="visible-xs"  href="https://www.linkedin.com/in/tanya-barlow-%E8%B0%AD%E9%9B%85-24496220">
+			        	  
+
+			        	  <picture>
+						  			<source type="image/webp" media="(max-width:767px)" srcset="../images/webp/In-2C-28px-TM.webp">
+						  			<img src="../images/In-2C-28px-TM.png">
+									</picture>
+
+			        	  <h6><strong>英文：Tanya Barlow Townsville LinkedIn&trade;</strong></h6>
+
+			          </a>
+
+			            	  
+
+	          	</div>
+
+	          	<div id="googleSearch">
+								<a href="https://www.google.com.au/webhp?sourceid=chrome-instant&rlz=1C1CHFX_enAU673AU674&ion=1&espv=2&ie=UTF-8#q=Tanya+Barlow+Townsville+Linkedin"><p>(谷歌网络搜索: 谭雅澳大利亚昆士兰汤斯维尔城市)</p>
+	          		</a>
+	  					</div>
+
+
+			        <div  class="Skype visible-md visible-lg">
+
+								<picture >
+						  			<source type="image/webp" srcset="../images/webp/s-logo-solid28x28.webp">
+						  			<img  src="../images/s-logo-solid28x28.jpg">
+								</picture>
+
+	          		<p >在线语言辅导课可用。 我使用Skype&trade;软件。</p>
+
+	          	</div>
+
+
+	          	<div  class="Skype visible-sm">
+
+								<picture >
+						  			<source type="image/webp" srcset="../images/webp/s-logo-solid28x28.webp">
+						  			<img  src="../images/s-logo-solid28x28.jpg">
+								</picture>
+
+	          		<p >在线语言辅导课可用。 我使用Skype&trade;软件。</p>
+
+	          	</div>
+
+	          	<div  class="Skype visible-xs" >
+
+								<picture >
+						  			<source type="image/webp" srcset="../images/webp/s-logo-solid28x28.webp">
+						  			<img  src="../images/s-logo-solid28x28.jpg">
+								</picture>
+
+	          		<p >在线语言辅导课可用。 我使用<br>Skype&trade;软件。</p>
+	          	</div>
+		
+	          
+	        </div>
+	      </div>
+	    </div> 
+	 	<div id="aboutSmMdLgBottom" class="col-md-12 visible-sm visible-md visible-lg" ></div>
+    </div>
+  </div>
+
+  <!--FOOTER SECTION-->
+  <!--FOOTER SECTION-->
+  <!--FOOTER SECTION-->
+	<div class="footer">
+		<div class="container">
+
+	  	<p>
+	  		&copy; 2016 澳中桥 Àozhōngqiáo (Australia-China bridge) 
+	  	</p>
+
+	  	<p>
+		  	The “S” logo and Word Mark Skype&trade; are trade marks of Skype and Tanya Barlow is not affiliated, sponsored, authorised or otherwise associated by/with the Skype group of companies.
+  		</p>
+
+	  	<p class="text-right">
+	  		网站管理员  <a target="_blank" href="https://au.linkedin.com/in/jeremywiseman">Jeremy Wiseman</a> 
+  		</p>
+
+		</div>
+	</div>
+  
+
+  <script src="../js/modernizr-custom.js"></script>
+</body>
+</html>

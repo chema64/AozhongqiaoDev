@@ -1,0 +1,1670 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+	padding-top: 50px;
+	overflow-y: scroll;
+	background-color: #9C9C9C;
+}
+
+/*NAVBAR*/
+/*NAVBAR*/
+/*NAVBAR*/
+.navbar {
+	/*margin-bottom: 0px;*/
+
+}
+
+.navbar .container {
+	/*outline: thin solid black;*/
+	background-color: #DEDEDE;
+}
+
+.navbar-default {
+	background-color: transparent;	
+	border-bottom-width: 0px;
+}
+
+.navbar-default .navbar-nav>.active>a {
+    color: #FFF;
+    background-color: #4A4A4A;
+}
+
+
+#myNavbar li {
+
+	font-family:  Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun ,   sans-serif;
+}
+
+
+/*JUMBOTRON*/
+/*JUMBOTRON*/
+/*JUMBOTRON*/
+.jumbotron {
+	background-color: transparent;	
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+}
+
+.jumbotron h1 {
+	font-family:  Arial, Helvetica, Simsun , "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei",   sans-serif;
+	color: white;
+}
+
+.jumbotron h2 {
+	font-family:  Arial, Helvetica, Simsun , "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei",   sans-serif;
+	color: white;
+
+}
+
+.jumbotron h3 {
+	font-family:  Arial, Helvetica, Simsun , "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei",   sans-serif;
+	color: white;
+
+}
+
+.jumbotron .container {
+	background-color: rgb(139, 140, 164);
+	/*outline: thin solid black;	*/
+}
+
+
+
+
+.jumbotron picture img#homeLg:nth-child(3) {
+	width: 400px;
+	height: 140px;
+	margin-top: 20px; 
+	
+}
+
+.jumbotron picture img#homeSm:nth-child(4) {
+	width: 290px;
+	height: 102px;
+	margin-top: 20px; 
+}
+
+.jumbotron picture img:nth-child(3) {
+	width: 290px;
+	height: 102px;
+	margin-top: 20px; 
+}
+
+.jumbotron picture img:nth-child(4) {
+	width: 145px;
+	height: 51px;
+	margin-top: 20px; 
+}
+
+#ÀozhōngqiáoTitleXS {
+	
+	font-size: auto;
+}
+
+
+.jumbotron #tanyaTitle span {
+	color: black;
+}
+
+.jumbotron #tanyaTitleXS span {
+	color: black;
+}
+
+
+
+/*MAIN*/
+/*MAIN*/
+/*MAIN*/
+
+#main .container {
+	background-color: white;
+}
+
+#main .row #mainXsImg {
+
+	width: 414px;
+	height:81px;
+}
+
+#mainContent2 {
+	display: flex;
+ 	flex-direction: column;
+ 	justify-content: space-around;
+ 	
+
+	background: rgba(255, 255, 255, 0.95);
+	box-shadow: 6px 6px 10px 0 rgba(0, 0, 0, 0.3);
+	border-top: 10px solid rgb(139, 140, 164);
+	border-bottom: 10px solid rgb(139, 140, 164);
+	border-right: 10px solid rgb(139, 140, 164);
+	border-left: 10px solid rgb(139, 140, 164);
+}
+
+
+
+#mainContent2 h2 {
+	font-family:  Arial, Helvetica, Simsun ,  "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei",    sans-serif;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#mainContent2 p {
+	font-family:  Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun ,   sans-serif;
+}
+
+#mainOuter1 {
+	padding-right: 0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+#mainOuter2 {
+	padding-left: 0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#main .container #homeLgMdTop {
+	height: 0px;
+}
+
+#main .container #homeSmTop {
+	height: 57px;
+}
+
+#main .container #homeLgMdBottom {
+	height: 50px;
+}
+
+#main .container #homeSmBottom {
+	height: 57px;
+}
+
+#main .container #aboutSmMdLgTop {
+	height: 0px;
+}
+
+#main .container #aboutSmMdLgBottom {
+	height: 50px;
+}
+
+#main .container #coursesSmMdLgTop {
+	height: 10px;
+}
+
+#main .container #coursesSmMdLgBottom {
+	height: 18px;
+}
+
+#main .container #qualSmMdLgTop {
+	height: 0px;
+}
+
+#main .container #qualSmMdLgBottom {
+	height: 25px;
+}
+
+#main .container #affilMdLgTop {
+	height: 0px;
+}
+
+#main .container #affilMdLgBottom {
+	height: 50px;
+}
+
+#main .container #affilSmTop {
+	height: 0px;
+}
+
+#main .container #affilSmBottom {
+	height: 0px;
+}
+
+#main .container #feesMdLgTop {
+	height: 0px;
+}
+
+#main .container #feesMdLgBottom {
+	height: 50px;
+}
+
+#main .container #feesSmTop {
+	height: 135px;
+}
+
+#main .container #feesSmBottom {
+	height: 135px;
+}
+
+#main .container #contactMdLgTop {
+	height: 0px;
+}
+
+#main .container #contactMdLgBottom {
+	height: 50px;
+}
+
+#main .container #contactSmTop {
+	height: 5px;
+}
+
+#main .container #contactSmBottom {
+	height: 5px;
+}
+
+
+
+/*ABOUT*/
+/*ABOUT*/
+/*ABOUT*/
+#aboutOuter1, #aboutOuter2 {
+	padding-top: 10px; 
+	padding-bottom: 15px;
+}
+
+
+#aboutContent1, #aboutContent2 {
+	background: rgba(255, 255, 255, 0.95);
+	box-shadow: 4px 6px 10px 0 rgba(0, 0, 0, 0.5), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
+	border: 10px solid rgb(139, 140, 164);
+	padding: 10px;
+	padding-top: 0px;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+
+}
+
+
+#aboutContent1 #worldMap {
+	margin-top: 10px;
+	width: 400px;
+	height: 271px;
+	
+}
+
+#aboutContent1 .polaroid {
+	box-shadow: 3px 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+#aboutContent2 .polaroid {
+	box-shadow: 3px 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 10px 0 rgba(0, 0, 0, 0.4);
+}
+
+#aboutContent2 h3 {
+	font-family:  Arial, Helvetica, Simsun , "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei",   sans-serif;
+}
+
+#aboutContent2 p {
+	font-family:  Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun ,   sans-serif;
+}
+
+#aboutContent2 a {
+	font-family:  Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun ,   sans-serif;
+	
+}
+
+#aboutContent1 #aboutAozhLogo {
+		margin-left: 60px;
+	margin-right: 60px;
+}
+
+#aboutContent1 div h1:nth-child(1) {
+	font-family:  Arial, Helvetica, Simsun ,  "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft YaHei",   sans-serif;
+	font-size: 60px;
+	padding-top: 10px;
+	color: #586073;
+}
+
+#aboutContent1 div h1:nth-child(2) {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 40px;
+	padding-bottom: 10px;
+}
+
+.grad {
+	background: linear-gradient(to right, rgba(139, 140, 164, 0.5), white);
+}
+
+#tanyaImage {
+	display: inline-flex;
+}
+
+#aboutContent2 #tanyaImage img:nth-child(3) {
+
+
+	width: 137px;
+	height: 172px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+
+#aboutContent2 #tanyaImage img:nth-child(4) {
+
+
+	width: 69px;
+	height: 86px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+
+#aboutContent2 #tanyaImage h3 {
+	margin-right: 5px;
+	align-self: flex-start;
+}
+
+
+#aboutContent2 #linkedIn img  {
+	width: 59px;
+	height: 48px;
+}
+
+#aboutContent2 #linkedIn h4 {
+	font-family: Arial;
+	display: inline;
+	color: black;
+
+}
+
+#aboutContent2 #linkedIn a:link h4 {
+
+	color: #1A7CBF;
+	text-decoration: underline;
+}
+
+#aboutContent2 #linkedIn a:visited h4 {
+	border: thin solid black;
+	color: #491ABF;
+	text-decoration: underline;
+}
+
+#aboutContent2 #linkedIn a:hover h4 {
+	
+	transition-duration: 1.3s;
+	color: black;
+	text-shadow: 0 0 3px #4C004C;
+	text-decoration: underline;
+}
+
+#aboutContent2 #linkedIn a:active h4 {
+
+	transition-duration: 0.3s;
+	color: white;
+	text-decoration: underline;
+}
+
+#aboutContent2 #linkedIn a h4 {
+	
+}
+
+
+#aboutContent2 #linkedIn h6 {
+	font-family: Arial;
+	display: inline;
+	color: black;
+
+}
+
+#aboutContent2 #linkedIn a:link h6 {
+
+	color: #1A7CBF;
+	text-decoration: underline;
+}
+
+#aboutContent2 #linkedIn a:visited h6 {
+	
+	color: #491ABF;
+	text-decoration: underline;
+}
+
+#aboutContent2 #linkedIn a:hover h6 {
+	transition-duration: 1.3s;
+	color: black;
+	text-shadow: 0 0 3px #4C004C;
+	text-decoration: underline;
+}
+
+#aboutContent2 #linkedIn a:active h6 {
+
+	transition-duration: 0.3s;
+	color: white;
+	text-decoration: underline;
+}
+
+#aboutContent2 #linkedIn a h6 {
+	
+}
+
+#aboutContent2 #linkedIn {
+	align-self: flex-start;
+}
+
+#aboutContent2 #googleSearch {
+	align-self: center;
+}
+
+#aboutContent2 #googleSearch a:link  {
+
+	color: #1A7CBF;
+	text-decoration: underline;
+}
+
+#aboutContent2 #googleSearch a:visited  {
+	color: #491ABF;
+	text-decoration: underline;
+}
+
+#aboutContent2 #googleSearch a:hover  {
+
+	transition-duration: 1.3s;
+	text-decoration: underline;
+	color: black;
+	text-shadow: 0 0 3px #4C004C;
+}
+
+#aboutContent2 #googleSearch a:active  {
+	transition-duration: 0.3s;
+	color: white;
+	text-decoration: underline;
+}
+
+#aboutContent2 #googleSearch a {
+	
+}
+
+
+#aboutContent2 .Skype {
+	align-self: flex-start;
+
+}
+
+#aboutContent2 .Skype img {
+	width: 28px;
+	height: 28px;
+
+}
+
+#aboutContent2 .Skype p {
+ 	display: inline-flex;
+
+}
+
+
+
+
+
+
+
+/*COURSES*/
+/*COURSES*/
+/*COURSES*/
+
+.panel-default>.panel-heading {
+	background: rgba(245, 245, 245, 0.7);
+	padding-top: 5px;
+	padding-bottom: 0px;
+}
+
+.panel {
+	background: rgba(255, 255, 255, 0.95);
+	border: 10px solid #8B8CA4;
+	box-shadow: 4px 6px 10px 0 rgba(0, 0, 0, 0.5), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+.panel-group {
+	margin-top: 0px;
+	margin-bottom: 15px;
+}
+
+.panel-group .panel+.panel {
+	margin-top: 15px;
+}
+
+
+
+.panel-title, .panel-body {
+	font-family:  Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun ,   sans-serif;
+}
+
+.panel-title button {
+	font-family:  Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun ,   sans-serif;
+}
+
+#accordion .panel-title button {
+	margin-top: 10px;
+}
+
+
+
+/*QUALIFICATIONS*/
+/*QUALIFICATIONS*/
+/*QUALIFICATIONS*/
+#qualOuter1, #qualOuter2 {
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+
+#qualInner1, #qualInner2 {
+	background: rgba(255, 255, 255, 0.95);
+	padding: 10px;
+
+	box-shadow: 4px 6px 10px 0 rgba(0, 0, 0, 0.5), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
+	border: 10px solid rgb(139, 140, 164);
+
+}
+
+#qualInner1 dl {
+	border-bottom: thin solid black;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#qualInner1 dl dd {
+	font-family:  Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun ,   sans-serif;
+}
+
+#qualInner1 dl dt {
+	font-family:  Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun ,   sans-serif;
+}
+
+#qualInner1 dl ul {
+	padding-left: 10px;
+	margin-bottom: 0px;
+}
+
+/*AFFILIATIONS*/
+/*AFFILIATIONS*/
+/*AFFILIATIONS*/
+#affiliationsOuter1 {
+	padding-top: 10px;
+	padding-bottom: 15px;
+
+}
+
+#affiliationsOuter2 {
+	padding-top: 10px;
+	padding-bottom: 15px;
+
+}
+
+
+
+
+#affiliationsD1, #affiliationsD2 {
+	background: rgba(255, 255, 255, 0.9);
+	box-shadow: 4px 6px 10px 0 rgba(0, 0, 0, 0.5), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
+	border: 10px solid rgb(139, 140, 164);
+	
+
+
+		display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+
+	height: 440px;
+}
+
+
+
+#affiliationsD1 h3,  #affiliationsD2 h3{
+	font-family:  Arial, Helvetica, Simsun , "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei",   sans-serif;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+#affiliationsD1 h5 {
+	font-family:  Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun ,   sans-serif;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#affiliationsD2 h2 {
+	font-family:  Arial, Helvetica, Simsun , "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei",   sans-serif;
+}
+
+#affiliationsD1 a.affLink:link  {
+	color: #1A7CBF;
+	text-decoration: underline;
+}
+
+#affiliationsD1 a.affLink:visited  {
+	color: #491ABF;
+	text-decoration: underline;
+}
+
+#affiliationsD1 a.affLink:hover  {
+
+	transition-duration: 1.3s;
+	text-decoration: underline;
+	color: black;
+	text-shadow: 0 0 3px #4C004C;
+}
+
+#affiliationsD1 a.affLink:active  {
+	transition-duration: 0.3s;
+	color: white;
+	text-decoration: underline;
+}
+
+#affiliationsD1 a.affLink {
+	
+}
+
+#affiliationsD2  a.affLink:link  {
+	color: #1A7CBF;
+	text-decoration: underline;
+}
+
+#affiliationsD2 a.affLink:visited  {
+	color: #491ABF;
+	text-decoration: underline;
+}
+
+#affiliationsD2 a.affLink:hover  {
+	transition-duration: 1.3s;
+	text-decoration: underline;
+	color: black;
+	text-shadow: 0 0 3px #4C004C;
+}
+
+#affiliationsD2 a.affLink:active  {
+	transition-duration: 0.3s;
+	color: white;
+	text-decoration: underline;
+}
+
+#affiliationsD2 a.affLink {
+	
+}
+
+
+
+/*FEES*/
+/*FEES*/
+/*FEES*/
+
+#feesOuter {
+	padding-top: 10px;
+	padding-bottom: 15px;
+
+}
+
+#feesD1 {
+	display: flex;
+
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+
+	background: rgba(255, 255, 255, 0.90);
+	box-shadow: 4px 6px 10px 0 rgba(0, 0, 0, 0.5), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
+	border: 10px solid rgb(139, 140, 164);
+}
+
+
+
+
+
+#feesD1 #fees {
+	margin: auto;
+
+	
+	background: rgba(75, 62, 99, 0.7);
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	padding: 5px;
+
+	box-shadow: 3px 5px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
+	
+}
+
+
+#feesD1 #fees h3 {
+	font-family:  Arial, Helvetica, Simsun , "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei",   sans-serif;
+	color: white;
+} 
+
+#feesD1 #fees h2 {
+	font-family:  Arial, Helvetica, Simsun , "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei",   sans-serif;
+	color: white;
+}
+
+#feesD1 #fees h4 {
+	font-family:  Arial, Helvetica,  "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun ,   sans-serif;
+	color: white;
+}
+
+#feesD1 #fees p {
+	color: white;
+}
+
+
+
+#feesD1 #fees h3 {
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*CONTACT*/
+/*CONTACT*/
+/*CONTACT*/
+#contactOuter {
+	padding-top: 10px;
+	padding-bottom: 15px;
+	height: 100%;
+}
+
+.addrIndent {
+	padding-left: 90px;
+}
+
+
+
+.addrIndent3 {
+	padding-left: 2px;
+}
+
+#contactD1 address .hidAddInd {
+	visibility: hidden;
+}
+
+
+#contactD1, #contactD2 {
+		display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+
+	background: rgba(255, 255, 255, 0.95);
+	box-shadow: 4px 6px 10px 0 rgba(0, 0, 0, 0.5), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
+	border: 10px solid rgb(139, 140, 164);
+	
+
+		padding-top: 5px; 
+	padding-left: 20px; 
+	padding-right: 20px;
+	height: 447px;
+}
+
+
+
+
+#map1 {
+	box-shadow: 3px 5px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
+	width: auto;
+	height: 390px;
+}
+
+#map2 {
+	box-shadow: 3px 5px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
+	width: auto;
+
+}
+
+
+#contactD1 address {
+
+	font-family: Simsun ,  Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", sans-serif;
+}
+
+#contactD1 h3 {
+	font-family: Simsun ,  Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", sans-serif;
+}
+
+#contactD1 h4 {
+	font-family: Simsun ,  Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", sans-serif;
+}
+
+#contactD1 address .enFont {
+	font-size: 19px;
+	font-family: initial;
+}
+
+#contactD1 .Skype p {
+	font-family: Simsun ,  Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", sans-serif;
+}
+
+#contactD1 .Skype img{
+	height: 28px;
+	width: 28px;
+} 
+
+#contactD1 address a:link  {
+
+	color: #1A7CBF;
+	text-decoration: underline;
+}
+
+#contactD1 address a:visited  {
+	color: #491ABF;
+	text-decoration: underline;
+}
+
+#contactD1 address a:hover  {
+
+	transition-duration: 1.3s;
+	text-decoration: underline;
+	color: black;
+	text-shadow: 0 0 3px #4C004C;
+}
+
+#contactD1 address a:active  {
+	transition-duration: 0.3s;
+	color: white;
+	text-decoration: underline;
+}
+
+#contactD1 address a {
+	
+}
+
+
+/*FOOTER*/
+/*FOOTER*/
+/*FOOTER*/
+
+.footer .container {
+	/*margin-top: 1px;*/
+	padding: 20px 0;
+	background-color: rgb(139, 140, 164);
+	/*outline: thin solid black;*/
+
+}
+
+
+.footer p {
+	font-family:  Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun ,   sans-serif;
+}
+
+.footer p a:link {
+
+	color: #08103B;
+	text-decoration: underline;
+}
+
+.footer p a:visited {
+	color: #491ABF;
+	text-decoration: underline;
+}
+
+.footer p a:hover {
+	transition-duration: 1.4s;
+	color: #135E91;
+	text-decoration: underline;
+}
+
+.footer p a:active {
+	transition-duration: .4s;
+	color: black;
+	text-decoration: underline;
+}
+
+.footer p a {
+	
+}
+
+
+
+/*MEDIA QUERIES*/
+/*MEDIA QUERIES*/
+/*MEDIA QUERIES*/
+
+/*Large*/
+@media screen and (min-width: 1200px)  {
+
+	#myNavbar li {
+		font-size: 19px;
+	}
+
+	.navbar-default .navbar-nav>li>a {
+		
+	}
+
+	.navbar-default .navbar-nav>.active>a:hover
+	{
+		transition-duration: .8s;
+		background-color: #636475;
+		color: white;
+	}
+
+	.navbar-default .navbar-nav>li>a:hover {
+		transition-duration: .8s;
+		background-color: #636475;
+		color: white;
+		text-shadow: 0 0 10px #FFFFFF;
+	}
+
+	.navbar-default .navbar-nav>li>a:active {
+		transition-duration: 0.3s;
+		color: black;
+		background-color: #8B8CA4;
+		text-shadow: 0 0 20px #4C004C;
+
+	}
+
+	.no-webp #main .container {
+		background-size: 1170px 801px;
+		background-image: url('../../images/1170x801.png');
+	}
+
+	.webp #main .container {
+
+		background-size: 1170px 801px;
+		background-image: url('../../images/webp/1170x801.webp');
+		
+	}
+
+	#mainContent2 {
+		height: auto;
+	}
+
+
+	#tanyaTitle {
+		font-size: 43px;
+	}
+
+	#aboutContent1, #aboutContent2 {
+		height: 550px;
+	}
+
+
+	#aboutContent2 p {
+		font-size: 19px;
+	}
+
+	#coursePanel1 .panel-body {
+		font-size: 17px;
+		padding: 10px 15px;
+	}
+
+	#coursePanel1#coursePanel1  {
+		margin-bottom: 10px;
+	}
+
+	#qualInner1 dl dd {
+		font-size: 22px;
+		font-family:  Arial, Helvetica, Simsun ,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei",    sans-serif;
+	}
+
+	#qualInner1 dl dt {
+		font-size: 24px;
+		font-family:  Arial, Helvetica, Simsun ,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei",    sans-serif;
+	}
+
+	#affiliationsD1 h2 {
+		font-size: 31px;
+	}
+
+	#affiliationsD2 h2 {
+		font-size: 31px;
+	}
+
+	#affiliationsD1 #TownsvilleChineseClubCarousel img {
+
+		width: 515px;
+		height: 311px;
+	}
+
+	#affiliationsD2 #iNQCarousel img {
+
+		width: 515px;
+		height: 350px;
+	}
+
+	#fees {
+		height: 262px;
+	}
+
+
+	#contactD1 address {
+		font-size: 21px;
+	}
+
+	#contactD1 .Skype p:nth-child(2) {
+		padding-left: 110px;
+		display: inline;
+	 	font-size: 21px;
+
+	}
+
+	#contactD1 .Skype p:nth-child(3) {
+
+		padding-left: 143px;
+	 	font-size: 21px;
+
+	}
+
+
+
+}
+
+/*Medium*/
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+	#myNavbar li {
+		font-size: 19px;
+	}
+
+	.navbar-default .navbar-nav>li>a {
+		
+	}
+
+	.navbar-default .navbar-nav>.active>a:hover
+	{
+		transition-duration: .8s;
+		background-color: #636475;
+		color: white;
+	}
+
+	.navbar-default .navbar-nav>li>a:hover {
+		transition-duration: .8s;
+		background-color: #636475;
+		color: white;
+		text-shadow: 0 0 10px #FFFFFF;
+	}
+
+	.navbar-default .navbar-nav>li>a:active {
+		transition-duration: 0.3s;
+		color: black;
+		background-color: #8B8CA4;
+		text-shadow: 0 0 20px #4C004C;
+
+	}
+
+
+	.no-webp #main .container {
+		background-size: 1170px 801px;
+		background-image: url('../../images/1170x801.png');
+	}
+
+	.webp #main .container {
+
+		background-size: 1170px 801px;
+		background-image: url('../../images/webp/1170x801.webp');
+		
+	}
+
+	#mainContent2 {
+		height: 410px;
+	}
+
+
+
+	#aboutContent1, #aboutContent2 {
+		height: 650px;
+	}
+
+	#aboutContent2 p {
+		font-size: 19px;
+	}
+
+	#coursePanel1 .panel-body {
+		font-size: 17px;
+	}
+
+	#qualInner1 dl dd {
+		font-size: 22px;
+		font-family:  Arial, Helvetica, Simsun ,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei",    sans-serif;
+	}
+
+	#qualInner1 dl dt {
+		font-size: 24px;
+		font-family:  Arial, Helvetica, Simsun ,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei",    sans-serif;
+	}
+
+	#affiliationsD1 h2 {
+		font-size: 31px;
+	}
+
+	#affiliationsD2 h2 {
+		font-size: 31px;
+	}
+
+	#affiliationsD1 #TownsvilleChineseClubCarousel img {
+
+		width: 515px;
+		height: 311px;
+	}
+
+	#affiliationsD2 #iNQCarousel img {
+	
+		width: 515px;
+		height: 350px;
+	}
+
+		#fees {
+		height: 262px;
+	}
+
+
+
+	#contactD1 address {
+		font-size: 21px;
+	}
+
+	#contactD1 .Skype p:nth-child(2) {
+		padding-left: 110px;
+		display: inline;
+	 	font-size: 21px;
+
+	}
+
+	#contactD1 .Skype p:nth-child(3) {
+
+		padding-left: 143px;
+	 	font-size: 21px;
+
+	}
+
+	
+}
+
+/*Small*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	
+	#myNavbar li {
+		font-size: 20px;
+	}
+
+	.navbar-left li a {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
+	.navbar-default .navbar-nav>li>a {
+		
+	}
+
+	.navbar-default .navbar-nav>.active>a:hover
+	{
+		
+		background-color: #636475;
+		color: white;
+	}
+
+	.navbar-default .navbar-nav>li>a:hover {
+		
+		background-color: #636475;
+		color: white;
+		text-shadow: 0 0 10px #FFFFFF;
+	}
+
+	.navbar-default .navbar-nav>li>a:active {
+		
+		color: black;
+		background-color: #8B8CA4;
+		text-shadow: 0 0 20px #4C004C;
+
+	}
+
+	.no-webp #main .container {
+		background-size: 1170px 801px;
+		background-image: url('../../images/1170x801.png');
+	}
+
+	.webp #main .container {
+
+		background-size: 1170px 801px;
+		background-image: url('../../images/webp/1170x801.webp');
+		
+	}
+
+	#mainOuter1 {
+		visibility: hidden;
+	}
+
+	#mainContent2 {
+		border-left: 10px solid rgb(139, 140, 164);
+		padding: 10px;
+	}
+
+
+	#mainContent1 {
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+
+	#mainContent2 {
+		height: auto;
+	}
+
+	#aboutContent2 {
+		height: 650px;
+	}
+
+
+	#aboutOuter2 {
+		padding-left: 20%; 
+		padding-right: 20%;
+	}
+
+	#aboutContent2 p {
+		font-size: 17px;
+	}
+
+	#aboutContent2 #linkedIn h4 {
+		font-size: 14px;
+	}
+
+	#aboutContent2 #linkedIn {
+		align-self: flex-start;
+	}
+
+	#aboutContent2 .Skype {
+		align-self: flex-start;
+	}
+
+
+	#courseConInner {
+		margin-top: 10px;
+	}
+
+	.courseInner {
+		height: auto;
+	}
+
+	#coursePanel1 .panel-body {
+		font-size: 17px;
+	}
+	
+
+
+
+	#qualInner1 dl dd {
+		font-size: 22px;
+	}
+
+	#qualInner1 dl dt {
+		font-size: 24px;
+	}
+
+
+
+
+
+	#affiliationsD1 {
+		height: auto;
+	}
+
+
+	#affiliationsOuter1 {
+		padding-left: 77px; 
+		padding-right: 77px;
+	}
+
+	#affiliationsD1 h2 {
+		font-size: 31px;
+		font-weight: bold;
+	}
+
+
+	#affiliationsD1 #TownsvilleChineseClubCarousel img {
+
+		width: 555px;
+		height: 335px;
+	}
+
+	#affiliationsD1 #iNQCarousel2 img {
+
+		width: 555px;
+		height: 377px;
+	}
+
+
+
+
+
+	#feesOuter {
+		padding-left: 10%; 
+		padding-right: 10%;
+	}
+
+
+
+	#feesD1 {
+		padding-top: 30px;
+		padding-bottom: 30px;
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+
+	#fees {
+		height: 259px;
+	}
+
+
+
+
+
+	#contactD1 {
+		padding: 10px;
+		height: auto;
+	}
+
+	#contactOuter {
+		padding-left: 10%; 
+		padding-right: 10%;
+	}
+
+	.addrIndent2 {
+		padding-left: 36px;
+	}
+
+	.addrIndent3 {
+		padding-left: 21px;
+	}
+
+	#contactD1 address {
+		font-size: 20px;
+		font-family:   Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun ,    sans-serif;
+	}
+
+
+	#contactD1 h3 {
+		font-family: Simsun ,  Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun ,   sans-serif;
+	}
+
+	#contactD1 h4 {
+		font-family: Simsun ,  Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun ,   sans-serif;
+	}
+
+	#contactD1 h3.visible-sm {
+		margin-bottom: 10px;
+	}
+	
+
+	#contactD1 .Skype p:nth-child(2) {
+		padding-left: 105px;
+		font-family:   Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun ,    sans-serif;
+		display: inline;
+	 	font-size: 20px;
+
+	}
+
+	#contactD1 .Skype p:nth-child(3) {
+
+		font-family:   Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun ,    sans-serif;
+		padding-left: 137px;
+	 	font-size: 20px;
+
+	}
+
+
+}
+
+/*Extra Small*/
+@media screen and (max-width: 767px) {
+
+	.navbar-default .navbar-nav>li>a {
+		
+	}
+
+	.navbar-default .navbar-nav>.active>a:hover
+	{
+		
+		background-color: #636475;
+		color: white;
+	}
+
+	.navbar-default .navbar-nav>li>a:hover {
+
+		background-color: #636475;
+		color: white;
+		text-shadow: 0 0 10px #FFFFFF;
+	}
+
+	.navbar-default .navbar-nav>li>a:active {
+		
+		color: black;
+		background-color: #8B8CA4;
+		text-shadow: 0 0 20px #4C004C;
+
+	}
+
+	.jumbotron img {
+		margin-top: 10px;
+
+	}
+	
+	#mainContent2 {
+		height: auto;
+		padding: 10px;
+	}
+
+	#mainOuter2 {
+		padding-left: 10px;
+	}
+
+	#main .container {
+		background-image: none;
+	}
+
+	#mainContent2 p {
+		font-size: 17px;
+	}
+
+	#mainContent2 p {
+		margin-bottom: 5px;
+	}
+
+
+
+
+
+
+
+
+
+	#aboutContent2 p {
+		font-size: inherit;
+	}
+
+	#aboutContent2 #tanyaImage {
+		padding-top: 5px;
+	}
+
+
+	#aboutContent2 #tanyaImage h4 {
+		margin-right: 5px;
+		align-self: center;
+	}
+
+
+	#aboutContent2 #linkedIn {
+		margin-bottom: 10px;
+		align-self: flex-start;
+	}
+
+	#aboutContent2 #linkedIn h4 {
+		font-size: 14px;
+	}
+
+	.panel-title {
+		font-size: 19px;
+	}
+
+	#aboutContent2 .Skype {
+		align-self: flex-start;
+	}
+
+	#aboutContent2 #linkedIn a:nth-child(2) img  {
+		
+		width: 39px;
+		height: 28px;
+
+	}
+
+
+	#courseConInner {
+		margin-top: 10px;
+	}
+
+	#qualOuter1 {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
+	#qualInner1 dl dd {
+		font-size: 18px;
+	}
+
+	#qualInner1 dl dt {
+		font-size: 19px;
+	}
+
+	#qualInner1 dl ul {
+		padding-left: 0px;
+		margin-bottom: 0px;
+	}
+
+
+
+
+	
+	#affiliationsOuter {
+		padding-left: 15px;  
+		padding-right: 15px;
+	}
+
+	#affiliationsD1 {
+		height: auto;
+		align-items: initial;
+	}
+
+	#affiliationsD1 h5 {
+		font-size: 16px;
+		font-weight: bold;
+		align-self: center;
+	}
+
+	#affiliationsD1 .affLinkCenter{
+		align-self: center;
+
+	}
+
+
+	#affiliationsD1 #TownsvilleChineseClubCarousel img {
+
+		width: 342px;
+		height: 207px;
+	}
+
+	#affiliationsD1 #iNQCarousel2 img {
+
+		width: 330px;
+		height: 224px;
+	}
+
+
+	#fees {
+		height: 158px;
+	}
+
+
+
+
+
+	#contactD1 {
+		padding-left: 5px;
+		padding-right: 5px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+
+		height: auto;
+		height: initial;
+	}
+	
+	.addrIndent {
+		padding-left: 40px;
+	}
+
+	.addrIndent2 {
+		padding-left: 0px;
+	}
+
+	.addrIndent3 {
+		padding-left: 14px;
+	}
+
+	#contactOuter {
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+
+
+	#contactD1 address {
+		font-size: 15px;
+		font-family:    Arial, Helvetica,    "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun ,    sans-serif;
+	}
+
+	#contactD1 h4 {
+		font-family:   Arial, Helvetica,   "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun , sans-serif;
+	}
+
+	#contactD1 address .enFont {
+		font-size: 15px;
+		font-family: initial;
+	}
+
+	#contactD1 address .enFont2 {
+		font-size: 13px;
+		font-family: initial;
+	}
+
+	#contactD1 address .zhFont {
+		font-size: 13px;
+	}
+
+	#contactD1 h4.visible-xs {
+		margin-top: 5px;
+		margin-bottom: 10px;
+	}
+
+
+	#contactD1 .Skype p:nth-child(2) {
+		padding-left: 41px;
+		font-size: 15px;
+		display: inline;
+		font-family:    Arial, Helvetica,    "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun ,    sans-serif;
+
+	}
+
+	#contactD1 .Skype p:nth-child(3) {
+		font-size: 15px;
+		padding-left: 74px;
+		font-family:    Arial, Helvetica,    "Hiragino Sans GB", "WenQuanYi Micro Hei",  "Microsoft YaHei", Simsun ,    sans-serif;
+
+	}
+
+		#contactD1 #map2 {
+		height: 200px;
+		margin: 5px;
+	}
+
+
+
+}
+
+
+
+
+	
