@@ -586,7 +586,7 @@
 			"file": "/C/Users/chema/Google Drive/Development2017/AozhongqiaoDev/css/zh-hans/style.css",
 			"settings":
 			{
-				"buffer_size": 25962,
+				"buffer_size": 25920,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -1227,15 +1227,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 25962,
+						"buffer_size": 25920,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								15443,
+								15443
 							]
 						],
 						"settings":
@@ -1244,7 +1244,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 36938.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
