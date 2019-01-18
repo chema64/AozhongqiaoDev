@@ -134,9 +134,7 @@ body {
 	height:81px;
 }
 
-/*#main .container #homeLgMdTop {
-	height: 0px; /***/ /*JW20170427
-}*/
+
 
 #main .container #homeSmTop {
 	height: 122px;
@@ -150,9 +148,7 @@ body {
 	height: 121px;
 }
 
-/*#main .container #aboutSmMdLgTop {
-	height: 10px;
-}*/
+
 
 #main .container #aboutSmMdLgBottom {
 	height: 50px;
@@ -166,33 +162,19 @@ body {
 	height: 18px;
 }
 
-/*#main .container #qualSmMdLgTop {
-	height: 10px;
-}*/
+
 
 #main .container #qualSmMdLgBottom {
 	height: 50px;
 }
 
-/*#main .container #affilMdLgTop {
-	height: 10px;
-}*/
+
 
 #main .container #affilMdLgBottom {
 	height: 50px;
 }
 
-/*#main .container #affilSmTop {
-	height: 0px;
-}
 
-#main .container #affilSmBottom {
-	height: 0px;
-}*/
-
-/*#main .container #feesMdLgTop {
-	height: 10px;
-}*/
 
 #main .container #feesMdLgBottom {
 	height: 50px;
@@ -206,9 +188,7 @@ body {
 	height: 135px;
 }
 
-/*#main .container #contactSmMdLgTop {
-	height: 10px;
-}*/
+
 
 #main .container #contactSmMdLgBottom {
 	height: 50px;
@@ -671,8 +651,8 @@ body {
 
 	display: flex;
 	flex-direction: column;
-	justify-content: center;
-	align-items: center;
+/*	justify-content: center;*/
+	align-items: flex-start;
 
 	padding: 5px;
 
@@ -684,6 +664,8 @@ body {
 #feesD1 #fees h3 {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	color: white;
+    margin-bottom: 0px;
+    margin-top: 0px;
 } 
 
 #feesD1 #fees h2 {
@@ -694,11 +676,17 @@ body {
 #feesD1 #fees h4 {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	color: white;
+	margin-bottom: 0px;
+    margin-top: 0px;
 }
 
 #feesD1 #fees p {
 	color: white;
 
+}
+
+#feesD1 #fees a {
+	color: #74b1e4;;
 }
 
 
@@ -1029,9 +1017,6 @@ a:active#inv {
 	}
 
 
-	#fees {
-		height: 262px;
-	}
 
 
 	#contactD1 address {
@@ -1097,9 +1082,7 @@ a:active#inv {
 
 	}
 
-	#mainContent2 {
-		 /*height: 399px; */ /***/ /*JW20170427*/
-	}
+
 
 	#aboutContent1, #aboutContent2 {
 		height: 650px;
@@ -1154,9 +1137,7 @@ a:active#inv {
 		height: 350px;
 	}
 
-	#fees {
-		height: 262px;
-	}
+
 
 
 	#contactD1 address {
@@ -1338,9 +1319,7 @@ a:active#inv {
 		padding-right: 30px;
 	}
 
-	#fees {
-		height: 260px;
-	}
+
 
 
 
@@ -1565,9 +1544,7 @@ a:active#inv {
 
 
 
-	#fees {
-		height: 158px;
-	}
+
 
 	#feesD1 {
 		padding-top: 5px;
