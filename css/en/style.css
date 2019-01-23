@@ -647,11 +647,10 @@ body {
 #feesD1 #fees {
 	margin: auto;
 
-	background: rgba(75, 62, 99, 0.7);
+	background: rgba(255, 255, 255, 0.7);
 
 	display: flex;
 	flex-direction: column;
-/*	justify-content: center;*/
 	align-items: flex-start;
 
 	padding: 5px;
@@ -659,23 +658,19 @@ body {
 	box-shadow: 3px 5px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
 }
 
-
+#feesD1 #fees h2 {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
 
 #feesD1 #fees h3 {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	color: white;
     margin-bottom: 0px;
     margin-top: 0px;
 } 
 
-#feesD1 #fees h2 {
-	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	color: white;
-}
 
 #feesD1 #fees h4 {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	color: white;
 	margin-bottom: 0px;
     margin-top: 0px;
 }
@@ -685,9 +680,6 @@ body {
 
 }
 
-#feesD1 #fees a {
-	color: #74b1e4;;
-}
 
 
 
