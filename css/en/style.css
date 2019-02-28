@@ -726,6 +726,11 @@ body {
 	padding-left: 17px;
 }
 
+#contactD1 address img {
+	width: 28px;
+	height: 28px;
+}
+
 #contactD1, #contactD2 {
 
 	display: flex;
@@ -1588,6 +1593,8 @@ a:active#inv {
 	#contactD1 address .addrIndent3 {
 		padding-left: 40px;
 	}
+
+
 
 
 
