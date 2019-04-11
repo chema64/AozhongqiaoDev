@@ -1,2 +1,0 @@
-AuthName "auth"
-AuthUserFile "/home/aozhongq/.htpasswds/public_html/inv/auth/passwd"

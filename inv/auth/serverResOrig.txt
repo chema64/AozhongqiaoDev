@@ -1,2 +1,0 @@
-<p>original content</p>
-<button onclick="serverResNew()">New content</button>
