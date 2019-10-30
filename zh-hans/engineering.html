@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html>
+
+<html lang="zh-Hans">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Aozhongqiao, Description of engineering services provided by Tanya Barlow</title>
+
+	<link rel="canonical"  href="http://www.aozhongqiao.com/zh-hans/engineering.html">
+	<link rel="alternate"  href="http://www.aozhongqiao.com/en/engineering.html" hreflang="en">  
+	<link rel="alternate"  href="http://www.aozhongqiao.com/zh-hans/engineering.html" hreflang="zh-hans"> 
+
+	<meta name="description" content="Basic Mandarin Chinese engineering for business or travel, Targeted Mandarin Chinese phrases and Simplified Chinese characters for professionals working in China, Project Work in China, Commissioning in China">
+
+	<meta name="google" content="notranslate">
+
+	<!--BS Latest compiled and minified CSS -->
+	<link rel="preload" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" as="style" onload="this.rel='stylesheet'" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+	<noscript><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"></noscript>
+
+	<link rel="preload" href="../css/zh-hans/style.css" as="style" onload="this.rel='stylesheet'">
+
+	<noscript><link rel="stylesheet" href="../css/zh-hans/style.css"></noscript>
+
+	<script>
+
+		/*! loadCSS: load a CSS file asynchronously. [c]2016 @scottjehl, Filament Group, Inc. Licensed MIT */
+		(function(w){
+			"use strict";
+			/* exported loadCSS */
+			var loadCSS = function( href, before, media ){
+				// Arguments explained:
+				// `href` [REQUIRED] is the URL for your CSS file.
+				// `before` [OPTIONAL] is the element the script should use as a reference for injecting our stylesheet <link> before
+					// By default, loadCSS attempts to inject the link after the last stylesheet or script in the DOM. However, you might desire a more specific location in your document.
+				// `media` [OPTIONAL] is the media type or query of the stylesheet. By default it will be 'all'
+				var doc = w.document;
+				var ss = doc.createElement( "link" );
+				var ref;
+				if( before ){
+					ref = before;
+				}
+				else {
+					var refs = ( doc.body || doc.getElementsByTagName( "head" )[ 0 ] ).childNodes;
+					ref = refs[ refs.length - 1];
+				}
+
+				var sheets = doc.styleSheets;
+				ss.rel = "stylesheet";
+				ss.href = href;
+				// temporarily set media to something inapplicable to ensure it'll fetch without blocking render
+				ss.media = "only x";
+
+				// wait until body is defined before injecting link. This ensures a non-blocking load in IE11.
+				function ready( cb ){
+					if( doc.body ){
+						return cb();
+					}
+					setTimeout(function(){
+						ready( cb );
+					});
+				}
+				// Inject link
+					// Note: the ternary preserves the existing behavior of "before" argument, but we could choose to change the argument to "after" in a later release and standardize on ref.nextSibling for all refs
+					// Note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
+					ready( function(){
+						ref.parentNode.insertBefore( ss, ( before ? ref : ref.nextSibling ) );
+					});
+				// A method (exposed on return object for external use) that mimics onload by polling document.styleSheets until it includes the new sheet.
+				var onloadcssdefined = function( cb ){
+					var resolvedHref = ss.href;
+					var i = sheets.length;
+					while( i-- ){
+						if( sheets[ i ].href === resolvedHref ){
+							return cb();
+						}
+					}
+					setTimeout(function() {
+						onloadcssdefined( cb );
+					});
+				};
+
+				function loadCB(){
+					if( ss.addEventListener ){
+						ss.removeEventListener( "load", loadCB );
+					}
+					ss.media = media || "all";
+				}
+
+				// once loaded, set link's media back to `all` so that the stylesheet applies once it loads
+				if( ss.addEventListener ){
+					ss.addEventListener( "load", loadCB);
+				}
+				ss.onloadcssdefined = onloadcssdefined;
+				onloadcssdefined( loadCB );
+				return ss;
+			};
+			// commonjs
+			if( typeof exports !== "undefined" ){
+				exports.loadCSS = loadCSS;
+			}
+			else {
+				w.loadCSS = loadCSS;
+			}
+		}( typeof global !== "undefined" ? global : this ));
+
+		/*! CSS rel=preload polyfill. Depends on loadCSS function. [c]2016 @scottjehl, Filament Group, Inc. Licensed MIT  */
+		(function( w ){
+		  // rel=preload support test
+		  if( !w.loadCSS ){
+		  	return;
+		  }
+		  var rp = loadCSS.relpreload = {};
+		  rp.support = function(){
+		  	try {
+		  		console.log("Preload supported: " + w.document.createElement( "link" ).relList.supports( "preload" ));
+		  		return w.document.createElement( "link" ).relList.supports( "preload" );
+		  	} catch (e) {
+		  		return false;
+		  	}
+		  };
+
+		  // loop preload links and fetch using loadCSS
+		  rp.poly = function(){
+		  	var links = w.document.getElementsByTagName( "link" );
+		  	for( var i = 0; i < links.length; i++ ){
+		  		var link = links[ i ];
+		  		if( link.rel === "preload" && link.getAttribute( "as" ) === "style" ){
+		  			w.loadCSS( link.href, link );
+		  			link.rel = null;
+		  		}
+		  	}
+		  };
+
+		  // if link[rel=preload] is not supported, we must fetch the CSS manually using loadCSS
+		  if( !rp.support() ){
+		  	console.log("preloadNotSupported");
+		  	rp.poly();
+		  	var run = w.setInterval( rp.poly, 300 );
+		  	if( w.addEventListener ){
+		  		w.addEventListener( "load", function(){
+		  			rp.poly();
+		  			w.clearInterval( run );
+		  		} );
+		  	}
+		  	if( w.attachEvent ){
+		  		w.attachEvent( "onload", function(){
+		  			w.clearInterval( run );
+		  		} )
+		  	}
+		  }
+		}( this ));
+
+
+	</script>
+
+	<script></script><!-- here to ensure a non-blocking load still occurs in IE and Edge, even if scripts follow loadCSS in head -->
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" defer ></script>
+
+	<script src="../js/zh-hans/course.js" defer></script>
+
+	<!-- BS Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous" defer></script>
+
+	<script src="../js/modernizr-custom.js" async></script>
+
+
+
+
+</head>
+
+<body>
+
+	
+	<!--BOOTSTRAP NAVBAR-->
+	<!--BOOTSTRAP NAVBAR-->
+	<!--BOOTSTRAP NAVBAR-->
+	<nav class="navbar navbar-default navbar-fixed-top">
+		<div class="container">
+
+			<div class="navbar-header">
+
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>	
+					<span class="icon-bar"></span>		
+				</button>
+
+
+			</div>
+
+			<div class="collapse navbar-collapse" id="myNavbar">
+				<ul class="nav navbar-nav navbar-left">
+					<li role="presentation" ><a href="index.html">首页</a></li>
+					<li role="presentation"><a href="about.html">专业背景</a></li>
+					<li role="presentation"><a href="courses.html">语言辅导服务</a></li>
+					<li role="presentation" class="active"><a href="engineering.html">Engineering Services</a></li>
+					<li role="presentation" ><a href="qual.html">资格</a></li>
+					<li role="presentation"><a href="affiliations.html">所属 </a></li>
+					<li role="presentation"><a href="fees.html">费用</a></li>
+					<li role="presentation"><a href="contact.html">联系</a></li>
+				</ul>
+
+				<ul class="nav navbar-nav navbar-right">
+					<li role="presentation"><a lang="zh-Hans" href="../en/engineering.html">EN 英文</a></li>
+				</ul>
+			</div>
+
+		</div>
+	</nav>
+
+	<!--JUMBOTRON SECTION-->
+	<!--JUMBOTRON SECTION-->
+	<!--JUMBOTRON SECTION-->
+	<div class="jumbotron" >
+		<div class="container text-center">
+
+			<picture>
+
+				<source type="image/webp" media="(min-width:768px)" srcset="../images/webp/290x102AozhongqiaV5.webp">
+					<source type="image/webp" media="(max-width:767px)" srcset="../images/webp/145x51AozhongqiaV6.webp">
+						<img  src="../images/290x102AozhongqiaV5.png" class="img-responsive center-block visible-lg visible-md visible-sm"  >
+						<img  src="../images/145x51AozhongqiaV6.png" class="img-responsive center-block visible-xs"  >
+
+					</picture>  
+
+
+					<h2 id="ÀozhōngqiáoTitleLMSM" class="visible-lg visible-md visible-sm" >Engineering Services</h2>
+					<h3 id="ÀozhōngqiáoTitleXS" class="visible-xs" >Engineering Services</h3>
+
+				</div>
+			</div>
+
+
+			<!--MAIN SECTION-->
+			<!--MAIN SECTION-->
+			<!--MAIN SECTION-->
+			<div  id="main" >
+				<div  class="container">
+					<div  class="row ">
+
+
+	  		<div id="coursesSmMdLgTop" class="col-lg-12 visible-lg visible-md" ></div>
+
+	  		<div class="col-sm-1 col-md-1 col-lg-1" ></div>
+
+	  		<div id="courseConInner" class="col-xs-12 col-sm-10 col-md-10 col-lg-10" >
+
+	  			<div id="coursePanel1" class="panel-group visible-sm visible-md visible-lg">
+
+	  				<div class="panel panel-default">
+	  					<div class="panel-heading">
+	  						<h4 class="panel-title">
+	  							<strong>专业背景</strong>
+	  						</h4>
+	  					</div>
+
+	  					<div class="panel-body">
+	  						<p>我是一名曾学习过中文普通话的澳洲电气工程师，尽管并没有持有专业翻译证书。</p>
+
+	  						<p>很期望在中国或澳大利亚的重工业行业工作 (例如，项目或者调试团队），这样我可以同时利用自己的工程技术和中文技能。我会基本的中文口语交流，但我的主要优势是可以读写很多技术 简体中文。
+	  						</p>
+	  					</div>
+	  				</div> 
+
+	  				<div class="panel panel-default">
+	  					<div class="panel-heading">
+	  						<h4 class="panel-title">
+	  							<strong>具体技能</strong>
+	  						</h4>
+	  					</div>
+
+	  					<div class="panel-body">
+	  						<p>重工业电气工程经验</p>
+	  						
+	  						<p>(例如: 澳大利亚的Port Kembla钢铁厂；在中国江苏苏州，博思格钢铁公司的金属涂层生产线）</p>
+	  						<br>
+
+	  						<p>我能够阅读简体中文的工程图纸和技术图纸。</p>
+	  						<br>
+
+	  						<p>我可以同时使用英文和简体中文准备工程或工艺流程词汇表。</p>
+
+	  						<p>(例如: 日常流程或调试项目的技术词汇表, 可用于中国员工和外籍员工）</p>
+	  						<br>
+
+	  						<p>我能够帮助澳大利亚专业人士在中国或澳大利亚环境下，掌握特定的中文技术词汇。</p>
+
+	  						<p>例如: 律师的法律术语；工程师的工程术语）</p>
+	  						<br>
+
+	  						<p>对中国工程或技术专业人士，提供有针对性的英文辅导。</p>
+
+	  						<p>（我可以帮助中国专业人士提供英文演讲技能，并提高他们对高难度技术词汇的发音。）</p>
+	  						<br>
+
+	  						<p>准备英文和简体中文的技术电子邮件，以改善澳大利亚公司与中国供应商的沟通</p>
+
+	  						<p>(例如，电机，液压，气动 技术规范）</p>
+	  						<br>
+
+	  						<p>为前往中国的澳大利亚商人,准备有针对的普通话培训班.</p>
+
+	  						<p>(培训班包括基本的普通话辅导，商务礼仪，文化意识和特定专业词汇）</p>
+	  					</div>
+	  				</div> 
+
+
+
+	  			</div>
+
+	  			<div class="panel-group visible-xs" id="accordion">
+
+	  				<div class="panel panel-default">
+
+	  					<div class="panel-heading">
+	  						<h4 class="panel-title">
+	  							专业背景
+	  							<button  id="collLink01" type="button" class="btn btn-primary btn-lg center-block" data-toggle="collapse" data-parent="#accordion" data-target="#collapse1"> 
+	  								点击了解更多信息  <span class="glyphicon glyphicon-chevron-down"></span>
+	  							</button>
+	  						</h4>
+	  					</div>
+
+	  					<div id="collapse1" class="panel-collapse collapse ">
+	  						<div class="panel-body ">
+	  							<p>我是一名曾学习过中文普通话的澳洲电气工程师，尽管并没有持有专业翻译证书。</p>
+
+		  						<p>很期望在中国或澳大利亚的重工业行业工作 (例如，项目或者调试团队），这样我可以同时利用自己的工程技术和中文技能。我会基本的中文口语交流，但我的主要优势是可以读写很多技术 简体中文。
+		  						</p>
+	  						</div>
+	  					</div>
+
+	  				</div>
+
+	  				<div  class="panel panel-default">
+
+	  					<div class="panel-heading" >
+	  						<h4 class="panel-title ">
+	  							具体技能 
+
+	  							<button   id="collLink02" type="button" class="btn btn-primary btn-lg center-block" data-toggle="collapse" data-parent="#accordion" data-target="#collapse2">
+	  								点击了解更多信息 <span class="glyphicon glyphicon-chevron-down"></span>
+	  							</button>
+	  						</h4>
+	  					</div>
+
+	  					<div id="collapse2" class="panel-collapse collapse">
+	  						<div class="panel-body">
+		  						<p>重工业电气工程经验</p>
+		  						
+		  						<p>(例如: 澳大利亚的Port Kembla钢铁厂；在中国江苏苏州，博思格钢铁公司的金属涂层生产线）</p>
+		  						<br>
+
+		  						<p>我能够阅读简体中文的工程图纸和技术图纸。</p>
+		  						<br>
+
+		  						<p>我可以同时使用英文和简体中文准备工程或工艺流程词汇表。</p>
+
+		  						<p>(例如: 日常流程或调试项目的技术词汇表, 可用于中国员工和外籍员工）</p>
+		  						<br>
+
+		  						<p>我能够帮助澳大利亚专业人士在中国或澳大利亚环境下，掌握特定的中文技术词汇。</p>
+
+		  						<p>例如: 律师的法律术语；工程师的工程术语）</p>
+		  						<br>
+
+		  						<p>对中国工程或技术专业人士，提供有针对性的英文辅导。</p>
+
+		  						<p>（我可以帮助中国专业人士提供英文演讲技能，并提高他们对高难度技术词汇的发音。）</p>
+		  						<br>
+
+		  						<p>准备英文和简体中文的技术电子邮件，以改善澳大利亚公司与中国供应商的沟通</p>
+
+		  						<p>(例如，电机，液压，气动 技术规范）</p>
+		  						<br>
+
+		  						<p>为前往中国的澳大利亚商人,准备有针对的普通话培训班.</p>
+
+		  						<p>(培训班包括基本的普通话辅导，商务礼仪，文化意识和特定专业词汇）</p>
+	  						</div>
+	  					</div>
+
+	  				</div>
+
+	  				
+
+	  			</div>
+
+	  		</div>
+	  		<div class="col-sm-1 col-md-1 col-lg-1" ></div>
+	  		<div id="coursesSmMdLgBottom" class="col-lg-12 visible-lg visible-md" ></div>
+
+	  	</div>
+	  </div>
+	</div>
+
+	<!--FOOTER SECTION-->
+	<!--FOOTER SECTION-->
+	<!--FOOTER SECTION-->
+	<div class="footer">
+		<div class="container">
+
+			<p>
+				&copy; 2016 澳中桥 Àozhōngqiáo (Australia-China bridge)
+			</p>
+
+			<p class="text-right">
+				网站管理员  <a target="_blank" href="https://au.linkedin.com/in/jeremywiseman">Jeremy Wiseman</a> 
+			</p>
+
+		</div>
+	</div>
+
+
+
+</body>
+</html>
