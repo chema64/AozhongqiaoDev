@@ -1,93 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
   <url>
-    <loc>http://www.aozhongqiao.com/index.html</loc>
+    <loc>https://www.aozhongqiao.com/index.html</loc>
     <lastmod>2019-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority> 
   </url>
   <url>
-    <loc>http://www.aozhongqiao.com/en/about.html</loc>
+    <loc>https://www.aozhongqiao.com/en/about.html</loc>
     <lastmod>2019-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://www.aozhongqiao.com/en/courses.html</loc>
+    <loc>https://www.aozhongqiao.com/en/courses.html</loc>
     <lastmod>2019-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://www.aozhongqiao.com/en/engineering.html</loc>
+    <loc>https://www.aozhongqiao.com/en/engineering.html</loc>
     <lastmod>2019-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://www.aozhongqiao.com/en/qual.html</loc>
+    <loc>https://www.aozhongqiao.com/en/qual.html</loc>
     <lastmod>2019-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://www.aozhongqiao.com/en/affiliations.html</loc>
+    <loc>https://www.aozhongqiao.com/en/affiliations.html</loc>
     <lastmod>2019-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://www.aozhongqiao.com/en/fees.html</loc>
+    <loc>https://www.aozhongqiao.com/en/fees.html</loc>
     <lastmod>2019-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://www.aozhongqiao.com/en/contact.html</loc>
+    <loc>https://www.aozhongqiao.com/en/contact.html</loc>
     <lastmod>2019-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://www.aozhongqiao.com/zh-hans/index.html</loc>
+    <loc>https://www.aozhongqiao.com/zh-hans/index.html</loc>
     <lastmod>2019-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://www.aozhongqiao.com/zh-hans/about.html</loc>
+    <loc>https://www.aozhongqiao.com/zh-hans/about.html</loc>
     <lastmod>2017-02-03</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://www.aozhongqiao.com/zh-hans/courses.html</loc>
+    <loc>https://www.aozhongqiao.com/zh-hans/courses.html</loc>
     <lastmod>2017-02-03</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://www.aozhongqiao.com/zh-hans/qual.html</loc>
-    <lastmod>2017-02-04</lastmod>
+    <loc>https://www.aozhongqiao.com/zh-hans/engineering.html</loc>
+    <lastmod>2019-02-19</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://www.aozhongqiao.com/zh-hans/affiliations.html</loc>
+    <loc>https://www.aozhongqiao.com/zh-hans/qual.html</loc>
     <lastmod>2017-02-04</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://www.aozhongqiao.com/zh-hans/fees.html</loc>
+    <loc>https://www.aozhongqiao.com/zh-hans/affiliations.html</loc>
     <lastmod>2017-02-04</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://www.aozhongqiao.com/zh-hans/contact.html</loc>
+    <loc>https://www.aozhongqiao.com/zh-hans/fees.html</loc>
     <lastmod>2017-02-04</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aozhongqiao.com/zh-hans/contact.html</loc>
+    <lastmod>2017-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
   </url>
 </urlset>
