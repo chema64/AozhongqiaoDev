@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /inv/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.aozhongqiao.com/sitemap.xml
