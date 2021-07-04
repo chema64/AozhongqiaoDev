@@ -3,7 +3,7 @@ function myMap() {
 	var mapCanvas1 = document.getElementById("map1");
     var mapCanvas2 = document.getElementById("map2");
 	var mapOptions = {
-	  center: new google.maps.LatLng(-19.260576088128616, 146.82238719992498), 
+	  center: new google.maps.LatLng(-19.26045515577866, 146.82216088206826), 
 	  zoom: 18
 	};
     var map1 = new google.maps.Map(mapCanvas1, mapOptions);
